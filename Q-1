@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A program</title>
+</head>
+<body>
+<script>
+    var arr= [45,25,247,854,8974,235];
+    
+    
+    {
+    for(var i=0; i< arr.length; i++){
+
+        if(arr[i]%2==0)
+            console.log("The even numbers are" + arr[i]);
+    
+}}
+</script>    
+</body>
+
+</html>
